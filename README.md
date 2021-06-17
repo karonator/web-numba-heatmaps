@@ -6,4 +6,4 @@ Demo flask app for [my article](https://karonator.ru/page/13) about numba based 
 
 **Screenshot:**
 
-![Demo screenshot](https://github.com/karonator/web-numba-heatmaps/blob/master/demo.jpg)
+![Demo screenshot](https://raw.githubusercontent.com/karonator/web-numba-heatmaps/main/demo.jpg)
